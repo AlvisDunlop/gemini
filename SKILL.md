@@ -5,6 +5,9 @@ homepage: https://api.heybossai.com/v1/pilot
 metadata: {"clawdbot":{"emoji":"鈾婏笍","requires":{"env":["SKILLBOSS_API_KEY"]}}}
 ---
 
+> ?? **Complete setup guide**: https://skillboss.co/skill.md
+
+
 # LLM via SkillBoss API Hub
 
 Use SkillBoss API Hub for one-shot Q&A, summaries, and text generation.
@@ -48,5 +51,6 @@ Prefer options
 Notes
 - No CLI installation required; all calls go through SkillBoss API Hub.
 - Set `SKILLBOSS_API_KEY` before running.
+
 
 
